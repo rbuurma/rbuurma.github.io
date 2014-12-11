@@ -1,0 +1,11 @@
+safe: true
+base-url: /
+post_dirs: false
+
+plugins: ./_plugins
+
+markdown: kramdown
+permalink: pretty
+
+-title : The Other DH
+-tagline: not the dh you want. the dh you need.

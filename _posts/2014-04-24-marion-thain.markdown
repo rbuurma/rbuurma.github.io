@@ -1,0 +1,13 @@
+---
+layout: post
+title: Marion Thain on Lyric Poetry 
+meta-description: p19 talk archive
+---
+
+<span class="sc">Join us</span> this Thursday, April 24th at 5:15 pm for Marion Thain’s talk on  “‘Lyric’ Poetry and the Later Nineteenth Century.”
+
+Marion writes:
+<br>
+Scholars have recently been returning to issues of genre in ways very different from the ‘genre theory’ of old. ‘Lyric’ has been a particular focus for this burgeoning field and is perhaps a particularly interesting concept within the nineteenth century. What was ‘lyric’ poetry for the Victorians? How useful is it to think of poetry’s relationship with music as a central and defining aspect of the concept during this period, and how was a powerful Romantic inheritance negotiated? Much has been written about the mid-century turn to hybrid-lyric forms, and particularly the ‘dramatic lyric’. Such experiments are widely seen as inspirational for the reconfiguration of lyric undertaken by the modernists in the early twentieth century. Yet the poetry of the final third of the nineteenth century appears to have no place in this narrative of poetic modernization, and even to represent a nostalgic and retrograde movement. Our discussion will focus particularly on this gap in the critical narrative of lyric’s relationship with modernity, and on the work of the work of the aesthetes and Decadents.
+ 
+<a href= "https://www.shef.ac.uk/english/people/thain">Marion Thain</a> is Reader in Literature and Culture at the University of Sheffield, U.K., and currently Visiting Professor at New York University.  Her major research fields are: later-Victorian and early-modernist literature; British poetry and poetics of the nineteenth and twentieth centuries; Digital Humanities and techno-textual experiments. Recent publications include journal articles and essays on writers such as Thomas Hardy, A. C. Swinburne, and the Parnassian poets, and the following books: The Lyric Poem: Formations and Transformations (Cambridge University Press 2013), Michael Field, The Poet (1880-1914): Published and Manuscript Materials (Broadview Press: 2009), and ‘Michael Field’ (1880-1914): Poetry, Aestheticism, and the Fin de Siècle (Cambridge University Press, 2007. She is currently finishing another monograph, “The Lyric Poem and Aestheticism: Forms of Modernity.” New projects include interdisciplinary work with the ‘Affect Project,’ a network funded from Canada. She is also a co-director of the international ‘Victorian Lives and Letters Consortium’ (a large archive-digitization project), and is organizing a series of Digital Humanities events this summer funded by a research grant from the AHRC, U.K.
