@@ -1,7 +1,8 @@
 ---
 layout: other
-title: About
+title: About the book
 meta-description: Book description. 
 ---
+In "Classrooms without Canons: A New History of Literary Study," we rewrite the history of English in the twentieth century. Gathering the syllabi, course descriptions, lecture transcripts, discussion notes, graded assignments, handouts and research notebooks used by familiar and unfamiliar figures from a range of universities, colleges, and extensions schools, we recover a full picture of literary study in the twentieth century. Existing disciplinary histories of English tend to look to a few select institutions and to imagine that a narrow - and now neglected - set of formalist or humanist practices (like the New Critical close reading of an excellent poem) provide the deep foundation of all of our teaching. We're interested in restoring the alternate modes of attention, evaluation, and research that form the tightly-knitted sinews connecting the more celebrated and studied aspects of the work of English to show that our discipline's past has been more interested in thinking through the process and problem of canon formation through attending to all manner of texts than it has been committed to aesthetic appreciation or formalist exegesis of a handful of great works.
 
-Stuff about our book. 
+An article drawn from this project,<a href="/docs/Buurma-Heffernan-Common-Reader.pdf">"The Common Reader and the Archival Classroom"</a>, appeared in New Literary History in Spring 2012; two related articles have appeared in <i>Representations</i> and <i>Victorian Studies</i>. Between 2012 and 2014, an American Council of Learned Societies Collaborative Research Fellowship funded leave and research travel. 
