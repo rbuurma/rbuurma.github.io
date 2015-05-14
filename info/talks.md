@@ -18,7 +18,7 @@ February 19, 2015 - Faculty Lecture, Swarthmore College
 <br>
 <b>"Classrooms without Canons: A New History of Literary Study"<b>
 
-<iframe id="ensembleEmbeddedContent_3WSXrb03B0etaAVigtgE3g" src="https://ensemble.swarthmore.edu/app/plugin/embed.aspx?ID=3WSXrb03B0etaAVigtgE3g&displayTitle=false&startTime=0&autoPlay=false&hideControls=false&showCaptions=false&width=640&height=334&displaySharing=false" frameborder="0" style="width:640px;height:390px;" height="390" width="640" allowfullscreen></iframe>
+<iframe id="ensembleEmbeddedContent_3WSXrb03B0etaAVigtgE3g" src="https://ensemble.swarthmore.edu/app/plugin/embed.aspx?ID=3WSXrb03B0etaAVigtgE3g&displayTitle=false&startTime=517&autoPlay=false&hideControls=false&showCaptions=false&width=640&height=334&displaySharing=false" frameborder="0" style="width:640px;height:390px;" height="390" width="640" allowfullscreen></iframe>
 
 February 17, 2015 - Department of English, Columbia University
 <br>
