@@ -2,10 +2,10 @@ safe: true
 base-url: /
 post_dirs: false
 
-plugins: ./_plugins
+#plugins: plugins_dir
 
 markdown: kramdown
 permalink: pretty
 
--title : The Other DH
+-title : the teaching archive
 -tagline: not the dh you want. the dh you need.
